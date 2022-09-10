@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=Wellcom&fontSize=90)
 
 
-###_what i use_
+##### ---__what i use__---
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leenuu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=timeAuto&type=Waving)

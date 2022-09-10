@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 what i use
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leenuu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

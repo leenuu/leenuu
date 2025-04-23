@@ -1,5 +1,7 @@
 <div align="center">
 
+![image](https://github.com/user-attachments/assets/93fc8fd0-acbd-4193-ac0e-8de23d749ad7)
+  
 # __My Infom__
 __email__: kanjoon1@kku.ac.kr
 

@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=Hello%20Wolrd&fontSize=90)
-
 # __My Infom__
 email: kanjoon1@kku.ac.kr
 

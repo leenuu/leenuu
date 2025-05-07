@@ -1,10 +1,19 @@
 <div align="center">
 
 ![image](https://github.com/user-attachments/assets/93fc8fd0-acbd-4193-ac0e-8de23d749ad7)
+
+</div>
+<div aligin="left">  
   
 # __My Infom__
 __email__: kanjoon1@kku.ac.kr
 
+# __Work__
+- 2025.3 ~ **Present** 
+  - <a href="http://www.drvalue.co.kr/">(주) 디알밸류</a> · BE Developer
+  - 한양대학교 ERICA 스마트융합공학부 · 2023.03 ~ **Present**
+- 2023.07 ~ 2025.02
+  - (주) 싱귤래리티 창업 · BE Developer
 
 # __My Git Status__
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leenuu)](https://github.com/anuraghazra/github-readme-stats)

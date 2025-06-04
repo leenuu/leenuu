@@ -1,11 +1,14 @@
 <div align="center">
-
-![image](https://github.com/user-attachments/assets/93fc8fd0-acbd-4193-ac0e-8de23d749ad7)
-
+  <img
+    src="https://media.tenor.com/8iA1LlHkqhAAAAAe/steam-delivery.png"
+    alt="steam delivery"
+    style="max-width: 100%; height: auto;"
+  />
 </div>
-<div aligin="left">  
+
+<div align="left">
   
-# __My Infom__
+# __My Info__
 __email__: kanjoon1@kku.ac.kr
 
 # __Work__

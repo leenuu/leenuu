@@ -1,9 +1,7 @@
 <div align="center">
-  <img
-    src="https://media.tenor.com/8iA1LlHkqhAAAAAe/steam-delivery.png"
-    alt="steam delivery"
-    style="max-width: 100%; height: auto;"
-  />
+  <img src="https://media.tenor.com/8iA1LlHkqhAAAAAe/steam-delivery.png"
+       alt="steam delivery"
+       width="100%" />
 </div>
 
 <div align="left">

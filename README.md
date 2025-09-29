@@ -1,6 +1,6 @@
 <div align="center">
 
-![image](https://github.com/user-attachments/assets/93fc8fd0-acbd-4193-ac0e-8de23d749ad7)
+![image](https://images.steamusercontent.com/ugc/49072302463516706/0BA665AA69DCA8374E9FAFEF283917A90D390B7F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
 </div>
 <div aligin="left">  

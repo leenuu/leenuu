@@ -13,6 +13,7 @@ __email__: kanjoon1@kku.ac.kr
   - <a href="http://www.drvalue.co.kr/">(주) 디알밸류</a> · BE Developer
 - 2023.07 ~ 2025.02
   - (주) 싱귤래리티 창업 · BE Developer
+    - Chatnote (대학생을 위한 AI 공부 필기앱) · 백엔드 개발
 
 # __My Git Status__
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leenuu)](https://github.com/anuraghazra/github-readme-stats)

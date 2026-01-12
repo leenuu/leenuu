@@ -18,9 +18,6 @@ __email__: kanjoon1@kku.ac.kr
   - (주) 싱귤래리티 창업 · BE Developer
     - Chatnote (대학생을 위한 AI 공부 필기앱) · 백엔드 개발
 
-# __My Git Status__
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leenuu)](https://github.com/anuraghazra/github-readme-stats)
-
 # __What I Use__
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
 <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />

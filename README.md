@@ -9,14 +9,20 @@
 <div aligin="left">  
   
 # __My Infom__
-__email__: kanjoon1@kku.ac.kr
+__email__: kanjoon1@hanyang.ac.kr
+
+# __Education__
+- 2026.3 ~ **Present**
+  - 한양대학교 에리카 조기취업형 계약학과 · 재학
+- 2022.3 ~ 2024.2
+  - 건국대학교 글로컬 캠퍼스 컴퓨터 공학과 · 자퇴
 
 # __Work__
 - 2025.3 ~ **Present** 
   - <a href="http://www.drvalue.co.kr/">(주) 디알밸류</a> · BE Developer
 - 2023.07 ~ 2025.02
   - (주) 싱귤래리티 창업 · BE Developer
-    - Chatnote (대학생을 위한 AI 공부 필기앱) · 백엔드 개발
+    - Chatnote (대학생을 위한 AI 공부 필기앱) · BE Developer
 
 # __What I Use__
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />

@@ -7,7 +7,7 @@
 <!-- 겨울 -->
 <div align="center">
   <img src="https://github.com/leenuu/leenuu/blob/main/winter.jpeg" alt="image" />
-</div> -
+</div>
 
 </div>
 <div aligin="left">  

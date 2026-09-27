@@ -6,7 +6,7 @@
 
 <!-- 겨울 -->
 <div align="center">
-  <img src="https://pbs.twimg.com/media/Ged8aXPWQAAZCs6.jpg" alt="image" />
+  <img src="https://github.com/leenuu/leenuu/blob/main/winter.jpeg" alt="image" />
 </div> -
 
 </div>

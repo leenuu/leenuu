@@ -2,7 +2,10 @@
 <!-- 봄 -->
 <!-- 여름 -->
 <!-- 가을 -->
-![image](https://images.steamusercontent.com/ugc/49072302463516706/0BA665AA69DCA8374E9FAFEF283917A90D390B7F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
+  <!-- <div align="center">
+  <img src="https://images.steamusercontent.com/ugc/49072302463516706/0BA665AA69DCA8374E9FAFEF283917A90D390B7F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="image" />
+</div> -->
+
 <!-- 겨울 -->
 <!-- <div align="center">
   <img src="https://pbs.twimg.com/media/Ged8aXPWQAAZCs6.jpg" alt="image" />

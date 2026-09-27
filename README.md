@@ -1,12 +1,9 @@
 <div align="center">
-<!-- 봄 -->
-<!-- 여름 -->
-<!-- 가을 -->
-
-
-<!-- 겨울 -->
 <div align="center">
-  <img src="https://github.com/leenuu/leenuu/blob/main/winter.jpeg" alt="image" />
+<!-- <img src="./assets/01-spring.jpg" alt="Spring" width="100%"> -->
+<!-- <img src="./assets/02-summer.jpg" alt="Summer" width="100%"> -->
+<img src="./assets/03-autumn.jpg" alt="Autumn" width="100%">
+<!-- <img src="./assets/04-winter.jpg" alt="Winter" width="100%"> -->
 </div>
 
 </div>

@@ -1,31 +1,24 @@
 <div align="center">
-<div align="center">
-<!-- <img src="./assets/01-spring.jpg" alt="Spring" width="100%"> -->
-<!-- <img src="./assets/02-summer.jpg" alt="Summer" width="100%"> -->
-<img src="./assets/03-autumn.jpg" alt="Autumn" width="100%">
-<!-- <img src="./assets/04-winter.jpg" alt="Winter" width="100%"> -->
+<img src="./assets/banner-autumn.gif" alt="Autumn" width="100%">
 </div>
 
-</div>
-<div aligin="left">  
-  
-# __My Infom__
+# My Info
 __email__: kanjoon1@hanyang.ac.kr
 
-# __Education__
+# Education
 - 2026.3 ~ **Present**
   - 한양대학교 에리카 조기취업형 계약학과 · 재학
 - 2022.3 ~ 2024.2
   - 건국대학교 글로컬 캠퍼스 컴퓨터 공학과 · 자퇴
 
-# __Work__
+# Work
 - 2025.3 ~ **Present** 
   - <a href="http://www.drvalue.co.kr/">(주) 디알밸류</a> · BE Developer
 - 2023.07 ~ 2025.02
   - (주) 싱귤래리티 창업 · BE Developer
     - Chatnote (대학생을 위한 AI 공부 필기앱) · BE Developer
 
-# __What I Use__
+# What I Use
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
 <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
 <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="40" alt="spring logo"  />
@@ -34,4 +27,10 @@ __email__: kanjoon1@hanyang.ac.kr
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
 <br><br>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leenuu/leenuu/main/assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leenuu/leenuu/main/assets/snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/leenuu/leenuu/main/assets/snake.svg" width="100%">
+</picture>
 </div>

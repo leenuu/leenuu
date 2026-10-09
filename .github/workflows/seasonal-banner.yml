@@ -1,0 +1,41 @@
+name: Seasonal banner
+
+on:
+  schedule:
+    # 매월 1일 09:17 KST (00:17 UTC)
+    - cron: "17 0 1 * *"
+  workflow_dispatch:
+    inputs:
+      month:
+        description: "테스트용 월(1-12). 비우면 이번 달"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  update-banner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Switch README banner to the current season
+        id: banner
+        env:
+          MONTH: ${{ inputs.month }}
+        run: |
+          season="$(bash .github/scripts/update-banner.sh "$MONTH")"
+          echo "season=$season" >> "$GITHUB_OUTPUT"
+
+      - name: Commit if the banner changed
+        env:
+          SEASON: ${{ steps.banner.outputs.season }}
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Banner is already $SEASON."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: switch banner to $SEASON" -- README.md
+          git push

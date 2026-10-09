@@ -1,0 +1,36 @@
+name: Contribution snake
+
+on:
+  schedule:
+    # 매일 00:23 KST (15:23 UTC)
+    - cron: "23 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Generate the snake from the contribution graph
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake.svg
+            assets/snake-dark.svg?palette=github-dark
+
+      - name: Commit if the snake changed
+        run: |
+          git add assets/snake.svg assets/snake-dark.svg
+          if git diff --cached --quiet; then
+            echo "Snake is unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update contribution snake"
+          git push

@@ -9,6 +9,11 @@ on:
 permissions:
   contents: write
 
+# 두 워크플로가 동시에 main에 푸시하지 않도록 한 번에 하나씩만 실행한다.
+concurrency:
+  group: push-main
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -23,6 +28,9 @@ jobs:
             assets/snake.svg
             assets/snake-dark.svg?palette=github-dark
 
+      - name: Remove the progress bar under the snake
+        run: bash .github/scripts/strip-snake-progress.sh assets/snake.svg assets/snake-dark.svg
+
       - name: Commit if the snake changed
         run: |
           git add assets/snake.svg assets/snake-dark.svg
@@ -33,4 +41,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "chore: update contribution snake"
+          git pull --rebase origin "$GITHUB_REF_NAME"
           git push

@@ -1,0 +1,2 @@
+# 셸 스크립트는 어디서 체크아웃하든 LF로 둔다. CRLF로 올라가면 GitHub Actions에서 실행되지 않는다.
+*.sh text eol=lf
